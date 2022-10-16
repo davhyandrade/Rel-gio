@@ -26,7 +26,7 @@
         height: 315px;
         background: rgba(245, 245, 245, 0.2);
         border-radius: 15px 0 0 15px;
-        border: 1px solid rgb(223, 223, 223);
+        border-right: 1px solid rgb(223, 223, 223);
 
         @media screen and (max-width:800px) {
             & {
@@ -37,6 +37,8 @@
                 justify-content: space-evenly;
                 position: initial;
                 border-radius: initial;
+                border-right: none;
+                border-bottom: 1px solid rgb(223, 223, 223);
             }
         }
 
