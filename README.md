@@ -5,7 +5,7 @@
 
 ## Relogio
 
-<img src="https://i.postimg.cc/prgzH5Yy/bank-small.png" alt="bank-small" width="100%">
+![horas](https://user-images.githubusercontent.com/109045257/197404330-6e1dc9ea-9975-4c82-969c-4377399b0e6b.png)
 
 Aplicação desenvolvida afim de aprender Svelte, ao qual foi utilizado o SvelteKit, criando um Relógio, com a função padrão de horas, temporizador e cronômetro.
 
