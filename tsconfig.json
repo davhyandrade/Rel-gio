@@ -1,6 +1,8 @@
 {
 	"extends": "./.svelte-kit/tsconfig.json",
 	"compilerOptions": {
+		"preserveValueImports": false,
+    "importsNotUsedAsValues": "remove",
 		"allowJs": true,
 		"checkJs": true,
 		"esModuleInterop": true,
